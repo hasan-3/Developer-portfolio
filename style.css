@@ -12,6 +12,9 @@ h1 {
 
 section {
     display: flex;
+    margin-left: 0;
+    margin-right: 5px;
+    margin-bottom: 200px;
 }
 
 .half-width {
