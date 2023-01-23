@@ -10,7 +10,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-left: 0;
     margin-right: 5px;
