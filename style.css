@@ -6,6 +6,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .Asma {
     color: orange;
 }
@@ -33,4 +37,12 @@ h1 {
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
 }
